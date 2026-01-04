@@ -59,8 +59,9 @@ SQL & NoSQL (PostgreSQL, MongoDB, Firebase)
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Umar&show_icons=true&theme=dark&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Umar&show_icons=true&theme=tokyonight&hide_title=false)](https://github.com/Hashir-Umar)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-Umar&layout=compact&theme=tokyonight)](https://github.com/Hashir-Umar)
 ---
 
 ## 🔗 Let's Connect
