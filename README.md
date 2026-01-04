@@ -10,61 +10,63 @@ I excel at bridging business needs with technical execution, mentoring teams, an
 
 ## 🛠️ Technical Expertise
 
-### Languages & Core Skills
-- **TypeScript/JavaScript** | **Python** | **Kotlin**
+**Languages & Core Skills**  
+TypeScript | JavaScript | Python | Kotlin
 
-- ### AI & Automation
-- - LangChain | OpenAI API | n8n | Zapier | AI-driven chatbots | Intelligent data processing pipelines
- 
-  - ### Backend Development
-  - - Node.js | Express.js | MoleculerJS | Fastify | NestJS | FastAPI
-   
-    - ### Frontend Development
-    - - React.js | Next.js | Gatsby.js | Chrome Extension
-     
-      - ### Mobile Development
-      - - Kotlin (Android) | React Native
-       
-        - ### Cloud & DevOps
-        - - AWS (ECS, ECR, Lambda, S3, CloudFront) | Docker | Nginx | Terraform | AWS CI/CD (CodeCommit, CodeBuild, CodePipeline, CodeDeploy)
-         
-          - ### Databases
-          - - SQL & NoSQL (PostgreSQL, MongoDB, Firebase)
-           
-            - ---
+**AI & Automation**  
+LangChain | OpenAI API | n8n | Zapier | AI-driven chatbots | Intelligent data processing pipelines
 
-            ## 🚀 Recent Highlights
+**Backend Development**  
+Node.js | Express.js | MoleculerJS | Fastify | NestJS | FastAPI
 
-            ✅ **Enhancing a US-based banking web application** using microservices architecture, improving scalability, and delivering new features with zero downtime.
+**Frontend Development**  
+React.js | Next.js | Gatsby.js | Chrome Extension
 
-            ✅ **Building AI-powered automation workflows** using n8n and Zapier to streamline business processes, integrate third-party services, and reduce manual effort.
+**Mobile Development**  
+Kotlin (Android) | React Native
 
-            ✅ **Implementing AI solutions** with LangChain and OpenAI for intelligent document processing, conversational interfaces, and knowledge retrieval systems.
+**Cloud & DevOps**  
+AWS (ECS, ECR, Lambda, S3, CloudFront) | Docker | Nginx | Terraform | AWS CI/CD (CodeCommit, CodeBuild, CodePipeline, CodeDeploy)
 
-            ✅ **Streamlining cloud deployments** using Terraform, AWS ECS/ECR, and automated CI/CD pipelines.
+**Databases**  
+SQL & NoSQL (PostgreSQL, MongoDB, Firebase)
 
-            ✅ **Delivered 20+ projects** with 100% client satisfaction across fintech, edtech, and healthcare sectors.
+---
 
-            ---
+## 🚀 Recent Highlights
 
-            ## 💡 What I Bring to the Table
+✅ **Enhancing a US-based banking web application** using microservices architecture, improving scalability, and delivering new features with zero downtime.
 
-            - ✨ Proven leadership in technical teams delivering mission-critical applications
-            - - ☁️ Strong cloud-native development and DevOps automation skills
-              - - 🔗 Ability to bridge the gap between business needs and technical execution
-                - - 👥 Passion for mentoring engineers and fostering collaborative, high-performance teams
-                  - - 🎯 Results-driven approach to designing, building, and scaling impactful software solutions
-                   
-                    - ---
+✅ **Building AI-powered automation workflows** using n8n and Zapier to streamline business processes, integrate third-party services, and reduce manual effort.
 
-                    ## 📊 Stats
+✅ **Implementing AI solutions** with LangChain and OpenAI for intelligent document processing, conversational interfaces, and knowledge retrieval systems.
 
-                    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Umar&show_icons=true&theme=dark&count_private=true)
+✅ **Streamlining cloud deployments** using Terraform, AWS ECS/ECR, and automated CI/CD pipelines.
 
-                    ---
+✅ **Delivered 20+ projects** with 100% client satisfaction across fintech, edtech, and healthcare sectors.
 
-                    ## 🔗 Connect With Me
+---
 
-                    📧 [Email](mailto:hashirumar19@gmail.com) | [LinkedIn](https://linkedin.com/in/hashirumar) | [GitHub](https://github.com/Hashir-Umar)
+## 💡 What I Bring to the Table
 
-                    Let's connect if you're looking for a results-driven engineering leader who can design, build, and scale impactful software solutions! 🚀
+✨ Proven leadership in technical teams delivering mission-critical applications  
+☁️ Strong cloud-native development and DevOps automation skills  
+🔗 Ability to bridge the gap between business needs and technical execution  
+👥 Passion for mentoring engineers and fostering collaborative, high-performance teams  
+🎯 Results-driven approach to designing, building, and scaling impactful software solutions
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashir-Umar&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 🔗 Let's Connect
+
+📧 **Email:** [hashirumar19@gmail.com](mailto:hashirumar19@gmail.com)  
+🔵 **LinkedIn:** [linkedin.com/in/hashirumar](https://linkedin.com/in/hashirumar)  
+🐙 **GitHub:** [github.com/Hashir-Umar](https://github.com/Hashir-Umar)
+
+Looking for a results-driven engineering leader who can design, build, and scale impactful software solutions? Let's connect! 🚀
