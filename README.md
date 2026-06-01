@@ -59,7 +59,7 @@ SQL & NoSQL (PostgreSQL, MongoDB, Firebase)
 
 ## 🔗 Let's Connect
 
-📧 **Email:** [hashirumar19@gmail.com](mailto:hashirumar19@gmail.com)  
+📧 **Email:** [connect@hashirumar.com](mailto:connect@hashirumar.com)  
 🔵 **LinkedIn:** [linkedin.com/in/hashirumar](https://linkedin.com/in/hashirumar)  
 🐙 **GitHub:** [github.com/Hashir-Umar](https://github.com/Hashir-Umar)  
 📊 **Website:** [hashirumar.com](https://hashirumar.com)
